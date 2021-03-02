@@ -19,3 +19,6 @@ icon: https://syncthing.net/img/logo-horizontal.svg
 home: https://syncthing.net/
 sources:
   - https://github.com/FlipEnergy/syncthing-helm-chart
+maintainers:
+  - name: Dennis Zhang
+    email: dennis.zhang.nrg@gmail.com
