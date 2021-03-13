@@ -53,6 +53,10 @@ service:
     # loadBalancerIP:
   backend:
     type: ClusterIP
+    # loadBalancerIP:
+  discovery:
+    type: ClusterIP
+    # loadBalancerIP:
 
 ingress:
   enabled: false
