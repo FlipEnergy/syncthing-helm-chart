@@ -1,3 +1,5 @@
+# This chart is now deprecated in favor of the chart I maintain [here](https://github.com/k8s-at-home/charts/tree/master/charts/stable/syncthing)
+
 [![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/flipenergy)](https://artifacthub.io/packages/search?repo=flipenergy)
 # Helm chart for deploying Syncthing to K8s
 **Go to artifact hub for versions.**
